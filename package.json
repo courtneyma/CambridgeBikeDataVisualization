@@ -9,9 +9,14 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.0.0",
+		"@sveltejs/adapter-static": "^2.0.3",
 		"@sveltejs/kit": "^1.5.0",
-		"svelte": "^3.54.0",
+		"svelte": "^4.2.20",
 		"vite": "^4.3.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"d3": "^7.9.0",
+		"mapbox-gl": "^3.20.0"
+	}
 }
