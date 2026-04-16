@@ -271,8 +271,7 @@
 								selectedStation?.Number !== station?.Number ? station : null)}
 					>
 						<title>
-							{station.totalTraffic} trips ({station.departures} departures, {station.arrivals}
-							arrivals)
+							{station.totalTraffic} trips ({station.departures} departures, {station.arrivals} arrivals)
 						</title>
 					</circle>
 				{/each}
