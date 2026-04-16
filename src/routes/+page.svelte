@@ -378,5 +378,3 @@
 		text-align: right;
 	}
 </style>
-
-//comment
